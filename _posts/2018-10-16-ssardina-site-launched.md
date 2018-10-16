@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Sebastian Sardina Launches Home Page"
 date: 2018-10-16
 ---
 
