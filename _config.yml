@@ -1,2 +1,4 @@
 name: A/Prof. Sebastian Sardina
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
